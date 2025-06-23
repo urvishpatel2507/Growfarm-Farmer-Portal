@@ -1,4 +1,4 @@
-![Growfarm](https://socialify.git.ci/Neelpatel11/Growfarm-Digital-farmer-portal/image?description=1&descriptionEditable=Digital%20Farmer%20Portal%20Using%20Mern%20Stack&font=Inter&language=1&name=1&owner=1&theme=Light)
+
 
 ## 💥 Introduction
 
